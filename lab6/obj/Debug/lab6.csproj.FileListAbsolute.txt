@@ -1,0 +1,12 @@
+C:\Users\walid\source\repos\visualCSharp\lab6\bin\Debug\lab6.exe.config
+C:\Users\walid\source\repos\visualCSharp\lab6\bin\Debug\lab6.exe
+C:\Users\walid\source\repos\visualCSharp\lab6\bin\Debug\lab6.pdb
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.exe
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.pdb
+C:\Users\walid\source\repos\visualCSharp\lab6\obj\Debug\lab6.DBox.resources

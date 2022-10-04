@@ -1,0 +1,16 @@
+C:\Users\walid\source\repos\visualCSharp\lap2\bin\Debug\net5.0\lap2.exe
+C:\Users\walid\source\repos\visualCSharp\lap2\bin\Debug\net5.0\lap2.deps.json
+C:\Users\walid\source\repos\visualCSharp\lap2\bin\Debug\net5.0\lap2.runtimeconfig.json
+C:\Users\walid\source\repos\visualCSharp\lap2\bin\Debug\net5.0\lap2.runtimeconfig.dev.json
+C:\Users\walid\source\repos\visualCSharp\lap2\bin\Debug\net5.0\lap2.dll
+C:\Users\walid\source\repos\visualCSharp\lap2\bin\Debug\net5.0\lap2.pdb
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.AssemblyInfoInputs.cache
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.AssemblyInfo.cs
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.dll
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\refint\lap2.dll
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.pdb
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\lap2.genruntimeconfig.cache
+C:\Users\walid\source\repos\visualCSharp\lap2\obj\Debug\net5.0\ref\lap2.dll

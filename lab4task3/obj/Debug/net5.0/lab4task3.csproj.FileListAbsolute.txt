@@ -1,0 +1,16 @@
+C:\Users\walid\source\repos\visualCSharp\lab4task3\bin\Debug\net5.0\lab4task3.exe
+C:\Users\walid\source\repos\visualCSharp\lab4task3\bin\Debug\net5.0\lab4task3.deps.json
+C:\Users\walid\source\repos\visualCSharp\lab4task3\bin\Debug\net5.0\lab4task3.runtimeconfig.json
+C:\Users\walid\source\repos\visualCSharp\lab4task3\bin\Debug\net5.0\lab4task3.runtimeconfig.dev.json
+C:\Users\walid\source\repos\visualCSharp\lab4task3\bin\Debug\net5.0\lab4task3.dll
+C:\Users\walid\source\repos\visualCSharp\lab4task3\bin\Debug\net5.0\lab4task3.pdb
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.AssemblyInfoInputs.cache
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.AssemblyInfo.cs
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.dll
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\refint\lab4task3.dll
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.pdb
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\lab4task3.genruntimeconfig.cache
+C:\Users\walid\source\repos\visualCSharp\lab4task3\obj\Debug\net5.0\ref\lab4task3.dll

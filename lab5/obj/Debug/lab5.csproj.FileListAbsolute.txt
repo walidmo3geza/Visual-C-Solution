@@ -1,0 +1,11 @@
+C:\Users\walid\source\repos\visualCSharp\lab5\bin\Debug\lab5.exe.config
+C:\Users\walid\source\repos\visualCSharp\lab5\bin\Debug\lab5.exe
+C:\Users\walid\source\repos\visualCSharp\lab5\bin\Debug\lab5.pdb
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.exe
+C:\Users\walid\source\repos\visualCSharp\lab5\obj\Debug\lab5.pdb

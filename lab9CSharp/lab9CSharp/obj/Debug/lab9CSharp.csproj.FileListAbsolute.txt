@@ -1,0 +1,11 @@
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\bin\Debug\lab9CSharp.exe.config
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\bin\Debug\lab9CSharp.exe
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\bin\Debug\lab9CSharp.pdb
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.Form1.resources
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.Properties.Resources.resources
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.csproj.GenerateResource.cache
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.exe
+C:\Users\walid\source\repos\lab9CSharp\lab9CSharp\obj\Debug\lab9CSharp.pdb

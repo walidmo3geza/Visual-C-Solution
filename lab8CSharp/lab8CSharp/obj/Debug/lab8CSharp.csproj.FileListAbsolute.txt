@@ -1,0 +1,11 @@
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\bin\Debug\lab8CSharp.exe.config
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\bin\Debug\lab8CSharp.exe
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\bin\Debug\lab8CSharp.pdb
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.Form1.resources
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.Properties.Resources.resources
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.csproj.GenerateResource.cache
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.exe
+C:\Users\walid\source\repos\lab8CSharp\lab8CSharp\obj\Debug\lab8CSharp.pdb
